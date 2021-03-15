@@ -1,6 +1,8 @@
-# DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback
+# DeepJSCC-f with AutoEncoder Based on "DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback"
 
-Code used in paper [DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback](https://arxiv.org/abs/1911.11174), appearing in IEEE Journal on Selected Areas in Information Theory (JSAIT).
+DeepJSCC-f AE autotunes the depth of the backbone layer of DeepJSCC-f.
+
+Code originate in paper [DeepJSCC-f: Deep Joint Source-Channel Coding of Images with Feedback](https://arxiv.org/abs/1911.11174), appearing in IEEE Journal on Selected Areas in Information Theory (JSAIT).
 
 
 - [Arxiv](https://arxiv.org/abs/1911.11174)
@@ -13,7 +15,7 @@ Authors: David Burth Kurka and Deniz Gündüz
 
 
 ```
-python jscc.py --help
+python jsccf_AE.py --help
 ```
 
 
