@@ -15,7 +15,7 @@ Authors: David Burth Kurka and Deniz Gündüz
 
 
 ```
-python jscc_.py --help
+python jsccf_.py --help
 ```
 
 
